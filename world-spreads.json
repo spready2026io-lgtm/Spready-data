@@ -1,5 +1,5 @@
 {
-  "scanTimestamp": "2026-05-31T08:41:44.156Z",
+  "scanTimestamp": "2026-05-31T09:00:37.929Z",
   "brokers": {
     "ig-world": {
       "status": "ok",
@@ -120,7 +120,7 @@
           "unit": "USD"
         },
         "BTC/USD": {
-          "value": 15,
+          "value": 15.1,
           "unit": "USD"
         }
       }
@@ -234,6 +234,10 @@
         "GBP/USD": {
           "value": 1.34565,
           "unit": "pips"
+        },
+        "BTC/USD": {
+          "value": 1001,
+          "unit": "USD"
         }
       }
     },
