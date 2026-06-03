@@ -1,5 +1,5 @@
 {
-  "scanTimestamp": "2026-06-02T19:02:40.142Z",
+  "scanTimestamp": "2026-06-03T19:59:15.815Z",
   "brokers": {
     "ig-world": {
       "status": "ok",
@@ -97,8 +97,29 @@
       }
     },
     "thinkmarkets": {
-      "status": "empty",
-      "spreads": {}
+      "status": "ok",
+      "spreads": {
+        "US500": {
+          "value": 0.4,
+          "unit": "pts"
+        },
+        "WTI/USD": {
+          "value": 2,
+          "unit": "pts"
+        },
+        "EUR/USD": {
+          "value": 1.15995,
+          "unit": "pips"
+        },
+        "XAU/USD": {
+          "value": 19,
+          "unit": "USD"
+        },
+        "BTC/USD": {
+          "value": 15,
+          "unit": "USD"
+        }
+      }
     },
     "blackbull-markets": {
       "status": "ok",
@@ -202,44 +223,31 @@
     "avatrade-world": {
       "status": "ok",
       "spreads": {
-        "XAU/USD": {
-          "value": 0.5,
-          "unit": "USD"
-        },
         "EUR/USD": {
-          "value": 1.16314,
+          "value": 1.15982,
           "unit": "pips"
         },
         "GBP/USD": {
-          "value": 1.34715,
+          "value": 1.34209,
           "unit": "pips"
+        },
+        "WTI/USD": {
+          "value": 1,
+          "unit": "pts"
+        },
+        "XAU/USD": {
+          "value": 0.5,
+          "unit": "USD"
         }
       }
     },
     "ic-markets-world": {
-      "status": "empty",
+      "status": "failed",
       "spreads": {}
     },
     "pepperstone-world": {
-      "status": "ok",
-      "spreads": {
-        "AUD/USD": {
-          "value": 0.1,
-          "unit": "pips"
-        },
-        "EUR/USD": {
-          "value": 0.1,
-          "unit": "pips"
-        },
-        "GBP/USD": {
-          "value": 0.3,
-          "unit": "pips"
-        },
-        "USD/JPY": {
-          "value": 0.3,
-          "unit": "pips"
-        }
-      }
+      "status": "empty",
+      "spreads": {}
     },
     "swissquote": {
       "status": "ok",
@@ -247,6 +255,22 @@
         "BTC/USD": {
           "value": 101,
           "unit": "USD"
+        },
+        "WTI/USD": {
+          "value": 0.052,
+          "unit": "pts"
+        },
+        "US500": {
+          "value": 1.1,
+          "unit": "pts"
+        },
+        "NAS100": {
+          "value": 2.2,
+          "unit": "pts"
+        },
+        "US30": {
+          "value": 5,
+          "unit": "pts"
         }
       }
     },
