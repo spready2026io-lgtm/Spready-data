@@ -1,5 +1,5 @@
 {
-  "scanTimestamp": "2026-06-13T08:39:35.863Z",
+  "scanTimestamp": "2026-06-14T08:54:52.854Z",
   "brokers": {
     "ig-world": {
       "status": "ok",
@@ -108,11 +108,11 @@
           "unit": "USD"
         },
         "BTC/USD": {
-          "value": 16.9,
+          "value": 16.1,
           "unit": "USD"
         },
         "WTI/USD": {
-          "value": 8.8,
+          "value": 10,
           "unit": "pts"
         }
       }
