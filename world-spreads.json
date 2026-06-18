@@ -1,5 +1,5 @@
 {
-  "scanTimestamp": "2026-06-17T05:34:26.062Z",
+  "scanTimestamp": "2026-06-18T05:34:15.344Z",
   "brokers": {
     "ig-world": {
       "status": "ok",
@@ -93,8 +93,29 @@
       }
     },
     "thinkmarkets": {
-      "status": "empty",
-      "spreads": {}
+      "status": "ok",
+      "spreads": {
+        "US500": {
+          "value": 0.3,
+          "unit": "pts"
+        },
+        "WTI/USD": {
+          "value": 3.2,
+          "unit": "pts"
+        },
+        "EUR/USD": {
+          "value": 1.15181,
+          "unit": "pips"
+        },
+        "XAU/USD": {
+          "value": 19,
+          "unit": "USD"
+        },
+        "BTC/USD": {
+          "value": 15,
+          "unit": "USD"
+        }
+      }
     },
     "blackbull-markets": {
       "status": "ok",
@@ -140,7 +161,7 @@
           "unit": "pts"
         },
         "ASX200": {
-          "value": 2.1,
+          "value": 1,
           "unit": "pts"
         }
       }
@@ -203,11 +224,11 @@
       "status": "ok",
       "spreads": {
         "EUR/USD": {
-          "value": 1.1614,
+          "value": 1.15168,
           "unit": "pips"
         },
         "GBP/USD": {
-          "value": 1.34305,
+          "value": 1.33072,
           "unit": "pips"
         },
         "WTI/USD": {
@@ -253,7 +274,7 @@
           "unit": "USD"
         },
         "WTI/USD": {
-          "value": 0.062,
+          "value": 0.072,
           "unit": "pts"
         },
         "US500": {
@@ -261,7 +282,7 @@
           "unit": "pts"
         },
         "NAS100": {
-          "value": 2.45,
+          "value": 2.95,
           "unit": "pts"
         },
         "US30": {
@@ -274,11 +295,11 @@
       "status": "ok",
       "spreads": {
         "GBP/USD": {
-          "value": 0.4,
+          "value": 0.2,
           "unit": "pips"
         },
         "AUD/USD": {
-          "value": 0.2,
+          "value": 0.4,
           "unit": "pips"
         }
       }
