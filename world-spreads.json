@@ -1,5 +1,5 @@
 {
-  "scanTimestamp": "2026-06-19T05:34:07.794Z",
+  "scanTimestamp": "2026-06-20T05:34:07.369Z",
   "brokers": {
     "ig-world": {
       "status": "ok",
@@ -100,19 +100,19 @@
       "status": "ok",
       "spreads": {
         "EUR/USD": {
-          "value": 0.2,
+          "value": 12,
           "unit": "pips"
         },
         "GBP/USD": {
-          "value": 0.1,
+          "value": 15,
           "unit": "pips"
         },
         "USD/JPY": {
-          "value": 0.1,
+          "value": 5.1,
           "unit": "pips"
         },
         "AUD/USD": {
-          "value": 0.1,
+          "value": 14.9,
           "unit": "pips"
         },
         "XAU/USD": {
@@ -137,10 +137,6 @@
         },
         "UK100": {
           "value": 1.8,
-          "unit": "pts"
-        },
-        "ASX200": {
-          "value": 1,
           "unit": "pts"
         }
       }
@@ -203,20 +199,12 @@
       "status": "ok",
       "spreads": {
         "EUR/USD": {
-          "value": 1.14205,
+          "value": 1.14754,
           "unit": "pips"
         },
         "GBP/USD": {
-          "value": 1.31743,
+          "value": 1.32402,
           "unit": "pips"
-        },
-        "WTI/USD": {
-          "value": 1,
-          "unit": "pts"
-        },
-        "XAU/USD": {
-          "value": 0.5,
-          "unit": "USD"
         }
       }
     },
@@ -253,39 +241,22 @@
           "unit": "USD"
         },
         "WTI/USD": {
-          "value": 0.052,
+          "value": 0.072,
           "unit": "pts"
         },
         "US500": {
-          "value": 1.1,
-          "unit": "pts"
-        },
-        "NAS100": {
-          "value": 3.45,
+          "value": 2.85,
           "unit": "pts"
         },
         "US30": {
-          "value": 7,
+          "value": 107,
           "unit": "pts"
         }
       }
     },
     "forex-com": {
-      "status": "ok",
-      "spreads": {
-        "EUR/USD": {
-          "value": 0.4,
-          "unit": "pips"
-        },
-        "GBP/USD": {
-          "value": 0.4,
-          "unit": "pips"
-        },
-        "AUD/USD": {
-          "value": 0.6,
-          "unit": "pips"
-        }
-      }
+      "status": "empty",
+      "spreads": {}
     }
   }
 }
