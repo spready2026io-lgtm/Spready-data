@@ -1,5 +1,5 @@
 {
-  "scanTimestamp": "2026-06-24T05:34:05.620Z",
+  "scanTimestamp": "2026-06-25T05:34:07.089Z",
   "brokers": {
     "ig-world": {
       "status": "ok",
@@ -120,7 +120,7 @@
           "unit": "USD"
         },
         "WTI/USD": {
-          "value": 0.104,
+          "value": 0.114,
           "unit": "pts"
         },
         "NAS100": {
@@ -140,7 +140,7 @@
           "unit": "pts"
         },
         "ASX200": {
-          "value": 2,
+          "value": 1,
           "unit": "pts"
         }
       }
@@ -203,11 +203,11 @@
       "status": "ok",
       "spreads": {
         "EUR/USD": {
-          "value": 1.13662,
+          "value": 1.13652,
           "unit": "pips"
         },
         "GBP/USD": {
-          "value": 1.3195,
+          "value": 1.31805,
           "unit": "pips"
         },
         "WTI/USD": {
@@ -253,7 +253,7 @@
           "unit": "USD"
         },
         "WTI/USD": {
-          "value": 0.052,
+          "value": 0.062,
           "unit": "pts"
         },
         "US500": {
@@ -265,7 +265,7 @@
           "unit": "pts"
         },
         "US30": {
-          "value": 5,
+          "value": 6,
           "unit": "pts"
         }
       }
@@ -274,19 +274,15 @@
       "status": "ok",
       "spreads": {
         "EUR/USD": {
-          "value": 0.2,
-          "unit": "pips"
-        },
-        "USD/JPY": {
           "value": 0.1,
           "unit": "pips"
         },
         "GBP/USD": {
-          "value": 0.4,
+          "value": 0.5,
           "unit": "pips"
         },
         "AUD/USD": {
-          "value": 0.3,
+          "value": 0.4,
           "unit": "pips"
         }
       }
