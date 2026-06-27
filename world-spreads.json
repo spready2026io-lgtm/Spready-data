@@ -1,5 +1,5 @@
 {
-  "scanTimestamp": "2026-06-26T05:34:11.389Z",
+  "scanTimestamp": "2026-06-27T05:34:04.704Z",
   "brokers": {
     "ig-world": {
       "status": "ok",
@@ -104,15 +104,15 @@
           "unit": "pips"
         },
         "GBP/USD": {
-          "value": 0.1,
+          "value": 15,
           "unit": "pips"
         },
         "USD/JPY": {
-          "value": 0.1,
+          "value": 2.1,
           "unit": "pips"
         },
         "AUD/USD": {
-          "value": 0.2,
+          "value": 5.3,
           "unit": "pips"
         },
         "XAU/USD": {
@@ -120,7 +120,7 @@
           "unit": "USD"
         },
         "WTI/USD": {
-          "value": 0.114,
+          "value": 0.954,
           "unit": "pts"
         },
         "NAS100": {
@@ -140,7 +140,7 @@
           "unit": "pts"
         },
         "ASX200": {
-          "value": 1,
+          "value": 4.2,
           "unit": "pts"
         }
       }
@@ -222,16 +222,8 @@
           "value": 0.25,
           "unit": "pips"
         },
-        "WTI/USD": {
-          "value": 1,
-          "unit": "pts"
-        },
-        "XAU/USD": {
-          "value": 0.5,
-          "unit": "USD"
-        },
         "BTC/USD": {
-          "value": 23.96,
+          "value": 24.05,
           "unit": "USD"
         }
       }
@@ -269,7 +261,7 @@
           "unit": "USD"
         },
         "WTI/USD": {
-          "value": 0.062,
+          "value": 0.052,
           "unit": "pts"
         },
         "US500": {
@@ -277,11 +269,11 @@
           "unit": "pts"
         },
         "NAS100": {
-          "value": 3.2,
+          "value": 2.7,
           "unit": "pts"
         },
         "US30": {
-          "value": 5,
+          "value": 7,
           "unit": "pts"
         }
       }
@@ -289,12 +281,20 @@
     "forex-com": {
       "status": "ok",
       "spreads": {
+        "EUR/USD": {
+          "value": 3,
+          "unit": "pips"
+        },
+        "USD/JPY": {
+          "value": 4,
+          "unit": "pips"
+        },
         "GBP/USD": {
-          "value": 0.4,
+          "value": 5,
           "unit": "pips"
         },
         "AUD/USD": {
-          "value": 0.4,
+          "value": 4,
           "unit": "pips"
         }
       }
