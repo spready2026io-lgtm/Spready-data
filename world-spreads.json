@@ -1,5 +1,5 @@
 {
-  "scanTimestamp": "2026-06-27T05:34:04.704Z",
+  "scanTimestamp": "2026-06-28T05:34:11.146Z",
   "brokers": {
     "ig-world": {
       "status": "ok",
@@ -115,6 +115,10 @@
           "value": 5.3,
           "unit": "pips"
         },
+        "EUR/JPY": {
+          "value": 4.7,
+          "unit": "pips"
+        },
         "XAU/USD": {
           "value": 0.12,
           "unit": "USD"
@@ -146,7 +150,7 @@
       }
     },
     "fxtm": {
-      "status": "empty",
+      "status": "timeout",
       "spreads": {}
     },
     "xm": {
@@ -222,8 +226,12 @@
           "value": 0.25,
           "unit": "pips"
         },
+        "WTI/USD": {
+          "value": 1,
+          "unit": "pts"
+        },
         "BTC/USD": {
-          "value": 24.05,
+          "value": 23.93,
           "unit": "USD"
         }
       }
