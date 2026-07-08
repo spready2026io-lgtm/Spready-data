@@ -1,5 +1,5 @@
 {
-  "scanTimestamp": "2026-07-07T05:34:03.477Z",
+  "scanTimestamp": "2026-07-08T05:34:05.450Z",
   "brokers": {
     "ig-world": {
       "status": "ok",
@@ -74,6 +74,10 @@
           "value": 1.4,
           "unit": "pips"
         },
+        "GBP/USD": {
+          "value": 2,
+          "unit": "pips"
+        },
         "USD/JPY": {
           "value": 1.4,
           "unit": "pips"
@@ -87,6 +91,10 @@
     "blackbull-markets": {
       "status": "ok",
       "spreads": {
+        "EUR/USD": {
+          "value": 0.2,
+          "unit": "pips"
+        },
         "GBP/USD": {
           "value": 0.1,
           "unit": "pips"
@@ -96,7 +104,7 @@
           "unit": "pips"
         },
         "AUD/USD": {
-          "value": 0.1,
+          "value": 0.2,
           "unit": "pips"
         },
         "EUR/JPY": {
@@ -108,19 +116,23 @@
           "unit": "USD"
         },
         "WTI/USD": {
-          "value": 0.13,
+          "value": 0.07,
           "unit": "pts"
         },
         "NAS100": {
-          "value": 1,
+          "value": 1.8,
           "unit": "pts"
         },
         "US30": {
-          "value": 3,
+          "value": 4,
+          "unit": "pts"
+        },
+        "GER40": {
+          "value": 6.7,
           "unit": "pts"
         },
         "US500": {
-          "value": 0.6,
+          "value": 0.7,
           "unit": "pts"
         },
         "UK100": {
@@ -146,6 +158,10 @@
         },
         "EUR/USD": {
           "value": 2,
+          "unit": "pips"
+        },
+        "GBP/USD": {
+          "value": 2.4,
           "unit": "pips"
         },
         "EUR/JPY": {
@@ -199,7 +215,7 @@
           "unit": "USD"
         },
         "BTC/USD": {
-          "value": 25.25,
+          "value": 25.07,
           "unit": "USD"
         }
       }
@@ -233,7 +249,7 @@
       "status": "ok",
       "spreads": {
         "WTI/USD": {
-          "value": 0.052,
+          "value": 0.062,
           "unit": "pts"
         },
         "US500": {
@@ -241,7 +257,7 @@
           "unit": "pts"
         },
         "NAS100": {
-          "value": 2.7,
+          "value": 2.45,
           "unit": "pts"
         },
         "US30": {
@@ -253,16 +269,8 @@
     "forex-com": {
       "status": "ok",
       "spreads": {
-        "EUR/USD": {
-          "value": 0.2,
-          "unit": "pips"
-        },
-        "GBP/USD": {
-          "value": 0.2,
-          "unit": "pips"
-        },
         "AUD/USD": {
-          "value": 0.2,
+          "value": 0.3,
           "unit": "pips"
         }
       }
