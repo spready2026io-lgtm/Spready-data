@@ -1,5 +1,5 @@
 {
-  "scanTimestamp": "2026-07-09T05:34:08.323Z",
+  "scanTimestamp": "2026-07-10T05:34:08.735Z",
   "brokers": {
     "ig-world": {
       "status": "ok",
@@ -95,12 +95,56 @@
     "blackbull-markets": {
       "status": "ok",
       "spreads": {
+        "EUR/USD": {
+          "value": 0.2,
+          "unit": "pips"
+        },
+        "GBP/USD": {
+          "value": 0.1,
+          "unit": "pips"
+        },
+        "USD/JPY": {
+          "value": 0.1,
+          "unit": "pips"
+        },
+        "AUD/USD": {
+          "value": 0.1,
+          "unit": "pips"
+        },
+        "EUR/JPY": {
+          "value": 0.6,
+          "unit": "pips"
+        },
         "XAU/USD": {
           "value": 0.12,
           "unit": "USD"
         },
         "WTI/USD": {
           "value": 0.06,
+          "unit": "pts"
+        },
+        "NAS100": {
+          "value": 1.2,
+          "unit": "pts"
+        },
+        "US30": {
+          "value": 3,
+          "unit": "pts"
+        },
+        "GER40": {
+          "value": 6.7,
+          "unit": "pts"
+        },
+        "US500": {
+          "value": 0.5,
+          "unit": "pts"
+        },
+        "UK100": {
+          "value": 1.8,
+          "unit": "pts"
+        },
+        "ASX200": {
+          "value": 2,
           "unit": "pts"
         }
       }
@@ -118,10 +162,6 @@
         },
         "EUR/USD": {
           "value": 2,
-          "unit": "pips"
-        },
-        "AUD/USD": {
-          "value": 2.4,
           "unit": "pips"
         },
         "GBP/USD": {
@@ -152,13 +192,8 @@
       }
     },
     "avatrade-world": {
-      "status": "ok",
-      "spreads": {
-        "BTC/USD": {
-          "value": 24.92,
-          "unit": "USD"
-        }
-      }
+      "status": "empty",
+      "spreads": {}
     },
     "ic-markets-world": {
       "status": "empty",
@@ -189,7 +224,7 @@
       "status": "ok",
       "spreads": {
         "WTI/USD": {
-          "value": 0.062,
+          "value": 0.052,
           "unit": "pts"
         },
         "US500": {
@@ -197,27 +232,18 @@
           "unit": "pts"
         },
         "NAS100": {
-          "value": 3.2,
+          "value": 2.7,
           "unit": "pts"
         },
         "US30": {
-          "value": 6,
+          "value": 5,
           "unit": "pts"
         }
       }
     },
     "forex-com": {
-      "status": "ok",
-      "spreads": {
-        "GBP/USD": {
-          "value": 0.2,
-          "unit": "pips"
-        },
-        "AUD/USD": {
-          "value": 0.4,
-          "unit": "pips"
-        }
-      }
+      "status": "empty",
+      "spreads": {}
     }
   }
 }
