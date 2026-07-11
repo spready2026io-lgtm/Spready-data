@@ -1,5 +1,5 @@
 {
-  "scanTimestamp": "2026-07-10T05:34:08.735Z",
+  "scanTimestamp": "2026-07-11T05:34:04.414Z",
   "brokers": {
     "ig-world": {
       "status": "ok",
@@ -96,35 +96,27 @@
       "status": "ok",
       "spreads": {
         "EUR/USD": {
-          "value": 0.2,
-          "unit": "pips"
-        },
-        "GBP/USD": {
           "value": 0.1,
           "unit": "pips"
         },
         "USD/JPY": {
-          "value": 0.1,
+          "value": 5.3,
           "unit": "pips"
         },
         "AUD/USD": {
-          "value": 0.1,
+          "value": 1.9,
           "unit": "pips"
         },
         "EUR/JPY": {
-          "value": 0.6,
+          "value": 6.1,
           "unit": "pips"
         },
         "XAU/USD": {
           "value": 0.12,
           "unit": "USD"
         },
-        "WTI/USD": {
-          "value": 0.06,
-          "unit": "pts"
-        },
         "NAS100": {
-          "value": 1.2,
+          "value": 1,
           "unit": "pts"
         },
         "US30": {
@@ -132,11 +124,11 @@
           "unit": "pts"
         },
         "GER40": {
-          "value": 6.7,
+          "value": 9.7,
           "unit": "pts"
         },
         "US500": {
-          "value": 0.5,
+          "value": 0.6,
           "unit": "pts"
         },
         "UK100": {
@@ -144,7 +136,7 @@
           "unit": "pts"
         },
         "ASX200": {
-          "value": 2,
+          "value": 7.2,
           "unit": "pts"
         }
       }
@@ -162,6 +154,10 @@
         },
         "EUR/USD": {
           "value": 2,
+          "unit": "pips"
+        },
+        "AUD/USD": {
+          "value": 2.4,
           "unit": "pips"
         },
         "GBP/USD": {
@@ -192,8 +188,29 @@
       }
     },
     "avatrade-world": {
-      "status": "empty",
-      "spreads": {}
+      "status": "ok",
+      "spreads": {
+        "EUR/USD": {
+          "value": 0.25,
+          "unit": "pips"
+        },
+        "GBP/USD": {
+          "value": 0.25,
+          "unit": "pips"
+        },
+        "USD/JPY": {
+          "value": 0.25,
+          "unit": "pips"
+        },
+        "EUR/JPY": {
+          "value": 0.25,
+          "unit": "pips"
+        },
+        "AUD/USD": {
+          "value": 0.25,
+          "unit": "pips"
+        }
+      }
     },
     "ic-markets-world": {
       "status": "empty",
@@ -232,18 +249,35 @@
           "unit": "pts"
         },
         "NAS100": {
-          "value": 2.7,
+          "value": 2.2,
           "unit": "pts"
         },
         "US30": {
-          "value": 5,
+          "value": 6,
           "unit": "pts"
         }
       }
     },
     "forex-com": {
-      "status": "empty",
-      "spreads": {}
+      "status": "ok",
+      "spreads": {
+        "EUR/USD": {
+          "value": 3,
+          "unit": "pips"
+        },
+        "USD/JPY": {
+          "value": 4,
+          "unit": "pips"
+        },
+        "GBP/USD": {
+          "value": 5,
+          "unit": "pips"
+        },
+        "AUD/USD": {
+          "value": 4,
+          "unit": "pips"
+        }
+      }
     }
   }
 }
