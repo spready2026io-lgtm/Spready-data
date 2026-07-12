@@ -1,5 +1,5 @@
 {
-  "scanTimestamp": "2026-07-11T05:34:04.414Z",
+  "scanTimestamp": "2026-07-12T05:33:56.199Z",
   "brokers": {
     "ig-world": {
       "status": "ok",
@@ -188,29 +188,8 @@
       }
     },
     "avatrade-world": {
-      "status": "ok",
-      "spreads": {
-        "EUR/USD": {
-          "value": 0.25,
-          "unit": "pips"
-        },
-        "GBP/USD": {
-          "value": 0.25,
-          "unit": "pips"
-        },
-        "USD/JPY": {
-          "value": 0.25,
-          "unit": "pips"
-        },
-        "EUR/JPY": {
-          "value": 0.25,
-          "unit": "pips"
-        },
-        "AUD/USD": {
-          "value": 0.25,
-          "unit": "pips"
-        }
-      }
+      "status": "empty",
+      "spreads": {}
     },
     "ic-markets-world": {
       "status": "empty",
@@ -259,25 +238,8 @@
       }
     },
     "forex-com": {
-      "status": "ok",
-      "spreads": {
-        "EUR/USD": {
-          "value": 3,
-          "unit": "pips"
-        },
-        "USD/JPY": {
-          "value": 4,
-          "unit": "pips"
-        },
-        "GBP/USD": {
-          "value": 5,
-          "unit": "pips"
-        },
-        "AUD/USD": {
-          "value": 4,
-          "unit": "pips"
-        }
-      }
+      "status": "empty",
+      "spreads": {}
     }
   }
 }
