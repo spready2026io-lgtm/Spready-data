@@ -1,5 +1,5 @@
 {
-  "scanTimestamp": "2026-07-30T05:34:15.285Z",
+  "scanTimestamp": "2026-07-31T05:34:16.448Z",
   "brokers": {
     "ig-world": {
       "status": "ok",
@@ -93,8 +93,25 @@
       }
     },
     "thinkmarkets": {
-      "status": "empty",
-      "spreads": {}
+      "status": "ok",
+      "spreads": {
+        "WTI/USD": {
+          "value": 1.5,
+          "unit": "pts"
+        },
+        "NAS100": {
+          "value": 0.8,
+          "unit": "pts"
+        },
+        "EUR/USD": {
+          "value": 1.15086,
+          "unit": "pips"
+        },
+        "BTC/USD": {
+          "value": 15,
+          "unit": "USD"
+        }
+      }
     },
     "blackbull-markets": {
       "status": "ok",
@@ -112,12 +129,40 @@
           "unit": "pips"
         },
         "EUR/JPY": {
-          "value": 0.6,
+          "value": 0.7,
           "unit": "pips"
         },
         "AUD/USD": {
           "value": 0.1,
           "unit": "pips"
+        },
+        "XAU/USD": {
+          "value": 0.12,
+          "unit": "USD"
+        },
+        "NAS100": {
+          "value": 1.2,
+          "unit": "pts"
+        },
+        "US30": {
+          "value": 2,
+          "unit": "pts"
+        },
+        "GER40": {
+          "value": 3.5,
+          "unit": "pts"
+        },
+        "US500": {
+          "value": 0.5,
+          "unit": "pts"
+        },
+        "UK100": {
+          "value": 1.8,
+          "unit": "pts"
+        },
+        "ASX200": {
+          "value": 1,
+          "unit": "pts"
         }
       }
     },
@@ -201,28 +246,7 @@
     },
     "avatrade-world": {
       "status": "ok",
-      "spreads": {
-        "EUR/USD": {
-          "value": 1.14533,
-          "unit": "pips"
-        },
-        "GBP/USD": {
-          "value": 1.33531,
-          "unit": "pips"
-        },
-        "WTI/USD": {
-          "value": 1,
-          "unit": "pts"
-        },
-        "XAU/USD": {
-          "value": 0.5,
-          "unit": "USD"
-        },
-        "BTC/USD": {
-          "value": 25.61,
-          "unit": "USD"
-        }
-      }
+      "spreads": {}
     },
     "ic-markets-world": {
       "status": "empty",
@@ -253,7 +277,7 @@
       "status": "ok",
       "spreads": {
         "WTI/USD": {
-          "value": 0.052,
+          "value": 0.062,
           "unit": "pts"
         },
         "US500": {
@@ -261,11 +285,11 @@
           "unit": "pts"
         },
         "NAS100": {
-          "value": 3.7,
+          "value": 2.2,
           "unit": "pts"
         },
         "US30": {
-          "value": 6,
+          "value": 5,
           "unit": "pts"
         }
       }
