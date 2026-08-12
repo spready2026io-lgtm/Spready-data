@@ -1,5 +1,5 @@
 {
-  "scanTimestamp": "2026-08-11T05:34:08.935Z",
+  "scanTimestamp": "2026-08-12T05:34:08.167Z",
   "brokers": {
     "ig-world": {
       "status": "ok",
@@ -96,7 +96,7 @@
       "status": "ok",
       "spreads": {
         "WTI/USD": {
-          "value": 1.5,
+          "value": 1.9,
           "unit": "pts"
         },
         "NAS100": {
@@ -104,7 +104,7 @@
           "unit": "pts"
         },
         "EUR/USD": {
-          "value": 1.15417,
+          "value": 1.15346,
           "unit": "pips"
         },
         "BTC/USD": {
@@ -129,7 +129,7 @@
           "unit": "pips"
         },
         "EUR/JPY": {
-          "value": 0.7,
+          "value": 0.6,
           "unit": "pips"
         },
         "AUD/USD": {
@@ -157,7 +157,7 @@
           "unit": "pts"
         },
         "UK100": {
-          "value": 1.8,
+          "value": 1.1,
           "unit": "pts"
         },
         "ASX200": {
@@ -256,15 +256,15 @@
           "unit": "USD"
         },
         "EUR/USD": {
-          "value": 1.15414,
+          "value": 1.15344,
           "unit": "pips"
         },
         "GBP/USD": {
-          "value": 1.35126,
+          "value": 1.35045,
           "unit": "pips"
         },
         "BTC/USD": {
-          "value": 25.59,
+          "value": 25.52,
           "unit": "USD"
         }
       }
@@ -298,7 +298,7 @@
       "status": "ok",
       "spreads": {
         "WTI/USD": {
-          "value": 0.052,
+          "value": 0.062,
           "unit": "pts"
         },
         "US500": {
@@ -306,7 +306,7 @@
           "unit": "pts"
         },
         "NAS100": {
-          "value": 2.7,
+          "value": 2.45,
           "unit": "pts"
         },
         "US30": {
