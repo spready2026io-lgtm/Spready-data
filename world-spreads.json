@@ -1,5 +1,5 @@
 {
-  "scanTimestamp": "2026-08-15T05:34:19.520Z",
+  "scanTimestamp": "2026-08-16T05:34:07.399Z",
   "brokers": {
     "ig-world": {
       "status": "ok",
@@ -31,6 +31,10 @@
         "XAU/USD": {
           "value": 0.3,
           "unit": "USD"
+        },
+        "WTI/USD": {
+          "value": 2.8,
+          "unit": "pts"
         }
       }
     },
@@ -89,8 +93,21 @@
       }
     },
     "thinkmarkets": {
-      "status": "empty",
-      "spreads": {}
+      "status": "ok",
+      "spreads": {
+        "NAS100": {
+          "value": 0.8,
+          "unit": "pts"
+        },
+        "EUR/USD": {
+          "value": 1.15702,
+          "unit": "pips"
+        },
+        "BTC/USD": {
+          "value": 18.6,
+          "unit": "USD"
+        }
+      }
     },
     "blackbull-markets": {
       "status": "ok",
@@ -99,20 +116,20 @@
           "value": 0.1,
           "unit": "pips"
         },
+        "GBP/USD": {
+          "value": 0.1,
+          "unit": "pips"
+        },
         "USD/JPY": {
           "value": 0.1,
           "unit": "pips"
         },
-        "GBP/USD": {
+        "AUD/USD": {
           "value": 0.1,
           "unit": "pips"
         },
         "EUR/JPY": {
           "value": 2.7,
-          "unit": "pips"
-        },
-        "AUD/USD": {
-          "value": 0.1,
           "unit": "pips"
         },
         "XAU/USD": {
@@ -205,6 +222,10 @@
           "value": 0.35,
           "unit": "USD"
         },
+        "WTI/USD": {
+          "value": 3,
+          "unit": "pts"
+        },
         "BRENT/USD": {
           "value": 3,
           "unit": "pts"
@@ -237,10 +258,6 @@
         "GBP/USD": {
           "value": 1.3539,
           "unit": "pips"
-        },
-        "BTC/USD": {
-          "value": 25.22,
-          "unit": "USD"
         }
       }
     },
