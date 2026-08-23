@@ -1,5 +1,5 @@
 {
-  "scanTimestamp": "2026-08-22T05:34:07.231Z",
+  "scanTimestamp": "2026-08-23T05:34:10.099Z",
   "brokers": {
     "ig-world": {
       "status": "ok",
@@ -104,7 +104,7 @@
           "unit": "pips"
         },
         "BTC/USD": {
-          "value": 16.4,
+          "value": 15.6,
           "unit": "USD"
         }
       }
@@ -254,8 +254,17 @@
       }
     },
     "avatrade-world": {
-      "status": "empty",
-      "spreads": {}
+      "status": "ok",
+      "spreads": {
+        "EUR/USD": {
+          "value": 1.16776,
+          "unit": "pips"
+        },
+        "GBP/USD": {
+          "value": 1.36463,
+          "unit": "pips"
+        }
+      }
     },
     "ic-markets-world": {
       "status": "empty",
