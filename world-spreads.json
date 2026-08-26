@@ -1,5 +1,5 @@
 {
-  "scanTimestamp": "2026-08-25T05:34:09.195Z",
+  "scanTimestamp": "2026-08-26T05:34:12.129Z",
   "brokers": {
     "ig-world": {
       "status": "ok",
@@ -96,7 +96,7 @@
       "status": "ok",
       "spreads": {
         "WTI/USD": {
-          "value": 1.7,
+          "value": 1.5,
           "unit": "pts"
         },
         "NAS100": {
@@ -104,7 +104,7 @@
           "unit": "pts"
         },
         "EUR/USD": {
-          "value": 1.16569,
+          "value": 1.16669,
           "unit": "pips"
         },
         "BTC/USD": {
@@ -117,7 +117,7 @@
       "status": "ok",
       "spreads": {
         "EUR/USD": {
-          "value": 0.1,
+          "value": 0.2,
           "unit": "pips"
         },
         "GBP/USD": {
@@ -133,7 +133,7 @@
           "unit": "pips"
         },
         "EUR/JPY": {
-          "value": 0.7,
+          "value": 0.6,
           "unit": "pips"
         },
         "XAU/USD": {
@@ -145,11 +145,11 @@
           "unit": "pts"
         },
         "US30": {
-          "value": 3,
+          "value": 4,
           "unit": "pts"
         },
         "GER40": {
-          "value": 5.5,
+          "value": 7.5,
           "unit": "pts"
         },
         "US500": {
@@ -169,9 +169,21 @@
     "fxtm": {
       "status": "ok",
       "spreads": {
-        "XAU/USD": {
-          "value": 1,
-          "unit": "USD"
+        "AUD/USD": {
+          "value": 0.01,
+          "unit": "pips"
+        },
+        "EUR/USD": {
+          "value": 0.01,
+          "unit": "pips"
+        },
+        "GBP/USD": {
+          "value": 0.01,
+          "unit": "pips"
+        },
+        "USD/JPY": {
+          "value": 0.01,
+          "unit": "pips"
         }
       }
     },
@@ -184,10 +196,6 @@
         },
         "EUR/USD": {
           "value": 2,
-          "unit": "pips"
-        },
-        "AUD/USD": {
-          "value": 2.4,
           "unit": "pips"
         },
         "GBP/USD": {
@@ -246,27 +254,27 @@
         "US30": {
           "value": 8,
           "unit": "pts"
-        },
-        "BTC/USD": {
-          "value": 45,
-          "unit": "USD"
         }
       }
     },
     "avatrade-world": {
       "status": "ok",
       "spreads": {
-        "EUR/USD": {
-          "value": 1.16565,
-          "unit": "pips"
-        },
         "GBP/USD": {
-          "value": 1.36268,
+          "value": 1,
           "unit": "pips"
         },
-        "BTC/USD": {
-          "value": 32.3,
+        "WTI/USD": {
+          "value": 1,
+          "unit": "pts"
+        },
+        "XAU/USD": {
+          "value": 0.5,
           "unit": "USD"
+        },
+        "EUR/USD": {
+          "value": 1.16661,
+          "unit": "pips"
         }
       }
     },
@@ -307,11 +315,11 @@
           "unit": "pts"
         },
         "NAS100": {
-          "value": 2.2,
+          "value": 2.45,
           "unit": "pts"
         },
         "US30": {
-          "value": 5,
+          "value": 6,
           "unit": "pts"
         }
       }
