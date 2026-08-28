@@ -1,5 +1,5 @@
 {
-  "scanTimestamp": "2026-08-27T05:34:11.736Z",
+  "scanTimestamp": "2026-08-28T05:34:09.153Z",
   "brokers": {
     "ig-world": {
       "status": "ok",
@@ -104,11 +104,11 @@
           "unit": "pts"
         },
         "EUR/USD": {
-          "value": 1.16567,
+          "value": 1.16447,
           "unit": "pips"
         },
         "BTC/USD": {
-          "value": 18,
+          "value": 15,
           "unit": "USD"
         }
       }
@@ -149,7 +149,7 @@
           "unit": "pts"
         },
         "GER40": {
-          "value": 5.5,
+          "value": 7.5,
           "unit": "pts"
         },
         "US500": {
@@ -262,7 +262,7 @@
       }
     },
     "avatrade-world": {
-      "status": "empty",
+      "status": "ok",
       "spreads": {}
     },
     "ic-markets-world": {
