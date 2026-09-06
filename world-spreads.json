@@ -1,5 +1,5 @@
 {
-  "scanTimestamp": "2026-09-05T05:34:07.896Z",
+  "scanTimestamp": "2026-09-06T05:34:04.002Z",
   "brokers": {
     "ig-world": {
       "status": "ok",
@@ -95,16 +95,16 @@
     "thinkmarkets": {
       "status": "ok",
       "spreads": {
-        "NAS100": {
-          "value": 0.8,
-          "unit": "pts"
-        },
         "EUR/USD": {
           "value": 1.1614,
           "unit": "pips"
         },
+        "NAS100": {
+          "value": 0.8,
+          "unit": "pts"
+        },
         "BTC/USD": {
-          "value": 30.8,
+          "value": 15.2,
           "unit": "USD"
         }
       }
@@ -116,11 +116,11 @@
           "value": 0.1,
           "unit": "pips"
         },
-        "GBP/USD": {
+        "USD/JPY": {
           "value": 0.1,
           "unit": "pips"
         },
-        "USD/JPY": {
+        "GBP/USD": {
           "value": 0.1,
           "unit": "pips"
         },
@@ -283,6 +283,10 @@
         "GBP/USD": {
           "value": 1.35176,
           "unit": "pips"
+        },
+        "BTC/USD": {
+          "value": 31.98,
+          "unit": "USD"
         }
       }
     },
