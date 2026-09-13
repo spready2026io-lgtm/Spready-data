@@ -1,5 +1,5 @@
 {
-  "scanTimestamp": "2026-09-12T05:34:12.304Z",
+  "scanTimestamp": "2026-09-13T05:34:23.929Z",
   "brokers": {
     "ig-world": {
       "status": "ok",
@@ -258,29 +258,12 @@
         "US30": {
           "value": 8,
           "unit": "pts"
-        },
-        "BTC/USD": {
-          "value": 45,
-          "unit": "USD"
         }
       }
     },
     "avatrade-world": {
-      "status": "ok",
-      "spreads": {
-        "EUR/USD": {
-          "value": 1.15987,
-          "unit": "pips"
-        },
-        "GBP/USD": {
-          "value": 1.35329,
-          "unit": "pips"
-        },
-        "BTC/USD": {
-          "value": 30.89,
-          "unit": "USD"
-        }
-      }
+      "status": "empty",
+      "spreads": {}
     },
     "ic-markets-world": {
       "status": "empty",
