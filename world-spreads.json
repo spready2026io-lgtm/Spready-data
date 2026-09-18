@@ -1,5 +1,5 @@
 {
-  "scanTimestamp": "2026-09-17T14:14:19.517Z",
+  "scanTimestamp": "2026-09-18T05:34:08.406Z",
   "brokers": {
     "ig-world": {
       "status": "ok",
@@ -189,11 +189,11 @@
           "unit": "USD"
         },
         "BRENT/USD": {
-          "value": 2.9,
+          "value": 3.4,
           "unit": "pts"
         },
         "WTI/USD": {
-          "value": 2.9,
+          "value": 3.4,
           "unit": "pts"
         },
         "NAS100": {
@@ -205,7 +205,7 @@
           "unit": "pts"
         },
         "GER40": {
-          "value": 1,
+          "value": 9.5,
           "unit": "pts"
         },
         "US500": {
@@ -213,7 +213,7 @@
           "unit": "pts"
         },
         "ASX200": {
-          "value": 1.7,
+          "value": 1.6,
           "unit": "pts"
         },
         "UK100": {
@@ -221,7 +221,7 @@
           "unit": "pts"
         },
         "BTC/USD": {
-          "value": 12,
+          "value": 13,
           "unit": "USD"
         }
       }
@@ -467,11 +467,11 @@
       "status": "ok",
       "spreads": {
         "AUD/USD": {
-          "value": 1.3,
+          "value": 1.2,
           "unit": "pips"
         },
         "EUR/USD": {
-          "value": 1.4,
+          "value": 1.3,
           "unit": "pips"
         },
         "GBP/USD": {
@@ -479,7 +479,7 @@
           "unit": "pips"
         },
         "USD/JPY": {
-          "value": 1.5,
+          "value": 1.6,
           "unit": "pips"
         },
         "XAU/USD": {
@@ -487,7 +487,7 @@
           "unit": "USD"
         },
         "GER40": {
-          "value": 4.3,
+          "value": 2.3,
           "unit": "pts"
         },
         "US500": {
@@ -495,11 +495,11 @@
           "unit": "pts"
         },
         "NAS100": {
-          "value": 1.45,
+          "value": 1.7,
           "unit": "pts"
         },
         "US30": {
-          "value": 5.5,
+          "value": 4.5,
           "unit": "pts"
         },
         "WTI/USD": {
@@ -507,7 +507,7 @@
           "unit": "pts"
         },
         "EUR/JPY": {
-          "value": 2.6,
+          "value": 2.5,
           "unit": "pips"
         },
         "UK100": {
