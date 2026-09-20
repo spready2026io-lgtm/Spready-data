@@ -1,5 +1,5 @@
 {
-  "scanTimestamp": "2026-09-19T05:34:10.364Z",
+  "scanTimestamp": "2026-09-20T05:34:11.355Z",
   "brokers": {
     "ig-world": {
       "status": "ok",
@@ -219,10 +219,6 @@
         "UK100": {
           "value": 1.8,
           "unit": "pts"
-        },
-        "BTC/USD": {
-          "value": 13,
-          "unit": "USD"
         }
       }
     },
@@ -329,13 +325,8 @@
       }
     },
     "avatrade-world": {
-      "status": "ok",
-      "spreads": {
-        "BTC/USD": {
-          "value": 32.42,
-          "unit": "USD"
-        }
-      }
+      "status": "empty",
+      "spreads": {}
     },
     "ic-markets-world": {
       "status": "ok",
