@@ -1,5 +1,5 @@
 {
-  "scanTimestamp": "2026-09-21T05:34:10.104Z",
+  "scanTimestamp": "2026-09-22T05:34:10.913Z",
   "brokers": {
     "ig-world": {
       "status": "ok",
@@ -205,11 +205,11 @@
           "unit": "pts"
         },
         "GER40": {
-          "value": 5.5,
+          "value": 7.5,
           "unit": "pts"
         },
         "US500": {
-          "value": 0.5,
+          "value": 0.6,
           "unit": "pts"
         },
         "ASX200": {
@@ -329,13 +329,8 @@
       }
     },
     "avatrade-world": {
-      "status": "ok",
-      "spreads": {
-        "BTC/USD": {
-          "value": 32.69,
-          "unit": "USD"
-        }
-      }
+      "status": "empty",
+      "spreads": {}
     },
     "ic-markets-world": {
       "status": "ok",
