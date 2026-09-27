@@ -1,5 +1,5 @@
 {
-  "scanTimestamp": "2026-09-26T05:34:10.233Z",
+  "scanTimestamp": "2026-09-27T05:34:09.667Z",
   "brokers": {
     "ig-world": {
       "status": "ok",
@@ -221,7 +221,7 @@
           "unit": "pts"
         },
         "BTC/USD": {
-          "value": 13,
+          "value": 12,
           "unit": "USD"
         }
       }
