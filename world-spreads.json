@@ -1,5 +1,5 @@
 {
-  "scanTimestamp": "2026-10-03T05:34:18.644Z",
+  "scanTimestamp": "2026-10-04T05:34:30.278Z",
   "brokers": {
     "ig-world": {
       "status": "ok",
@@ -188,11 +188,11 @@
           "value": 0.12,
           "unit": "USD"
         },
-        "BRENT/USD": {
+        "WTI/USD": {
           "value": 8.4,
           "unit": "pts"
         },
-        "WTI/USD": {
+        "BRENT/USD": {
           "value": 8.4,
           "unit": "pts"
         },
@@ -212,12 +212,12 @@
           "value": 0.6,
           "unit": "pts"
         },
-        "ASX200": {
-          "value": 1.7,
-          "unit": "pts"
-        },
         "UK100": {
           "value": 1.8,
+          "unit": "pts"
+        },
+        "ASX200": {
+          "value": 1.7,
           "unit": "pts"
         },
         "BTC/USD": {
@@ -329,8 +329,13 @@
       }
     },
     "avatrade-world": {
-      "status": "empty",
-      "spreads": {}
+      "status": "ok",
+      "spreads": {
+        "BTC/USD": {
+          "value": 33.95,
+          "unit": "USD"
+        }
+      }
     },
     "ic-markets-world": {
       "status": "ok",
