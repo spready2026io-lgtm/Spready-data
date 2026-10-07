@@ -1,5 +1,5 @@
 {
-  "scanTimestamp": "2026-10-06T05:34:15.069Z",
+  "scanTimestamp": "2026-10-07T05:34:15.958Z",
   "brokers": {
     "ig-world": {
       "status": "ok",
@@ -201,11 +201,11 @@
           "unit": "pts"
         },
         "US30": {
-          "value": 2,
+          "value": 3,
           "unit": "pts"
         },
         "GER40": {
-          "value": 9.5,
+          "value": 7.5,
           "unit": "pts"
         },
         "US500": {
@@ -332,7 +332,7 @@
       "status": "ok",
       "spreads": {
         "BTC/USD": {
-          "value": 34.25,
+          "value": 33.68,
           "unit": "USD"
         }
       }
