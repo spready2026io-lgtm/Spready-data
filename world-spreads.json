@@ -1,5 +1,5 @@
 {
-  "scanTimestamp": "2026-10-17T05:34:14.689Z",
+  "scanTimestamp": "2026-10-18T05:34:26.330Z",
   "brokers": {
     "ig-world": {
       "status": "ok",
@@ -509,57 +509,8 @@
       }
     },
     "swissquote": {
-      "status": "ok",
-      "spreads": {
-        "AUD/USD": {
-          "value": 1.6,
-          "unit": "pips"
-        },
-        "EUR/USD": {
-          "value": 1.4,
-          "unit": "pips"
-        },
-        "GBP/USD": {
-          "value": 2.6,
-          "unit": "pips"
-        },
-        "USD/JPY": {
-          "value": 2.4,
-          "unit": "pips"
-        },
-        "XAU/USD": {
-          "value": 0.795,
-          "unit": "USD"
-        },
-        "GER40": {
-          "value": 3.3,
-          "unit": "pts"
-        },
-        "US500": {
-          "value": 0.6,
-          "unit": "pts"
-        },
-        "NAS100": {
-          "value": 1.7,
-          "unit": "pts"
-        },
-        "US30": {
-          "value": 5.5,
-          "unit": "pts"
-        },
-        "WTI/USD": {
-          "value": 3.6,
-          "unit": "pts"
-        },
-        "EUR/JPY": {
-          "value": 3.9,
-          "unit": "pips"
-        },
-        "UK100": {
-          "value": 2.4,
-          "unit": "pts"
-        }
-      }
+      "status": "empty",
+      "spreads": {}
     },
     "forex-com": {
       "status": "empty",
