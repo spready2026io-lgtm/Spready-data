@@ -1,5 +1,5 @@
 {
-  "scanTimestamp": "2026-10-21T05:34:17.512Z",
+  "scanTimestamp": "2026-10-22T05:34:12.437Z",
   "brokers": {
     "ig-world": {
       "status": "ok",
@@ -201,15 +201,15 @@
           "unit": "pips"
         },
         "GBP/USD": {
-          "value": 0.2,
-          "unit": "pips"
-        },
-        "AUD/USD": {
           "value": 0.1,
           "unit": "pips"
         },
+        "AUD/USD": {
+          "value": 0.2,
+          "unit": "pips"
+        },
         "EUR/JPY": {
-          "value": 0.6,
+          "value": 0.7,
           "unit": "pips"
         },
         "XAU/USD": {
@@ -233,7 +233,7 @@
           "unit": "pts"
         },
         "GER40": {
-          "value": 9.5,
+          "value": 5.5,
           "unit": "pts"
         },
         "US500": {
@@ -369,7 +369,7 @@
       "status": "ok",
       "spreads": {
         "BTC/USD": {
-          "value": 33.13,
+          "value": 99.34,
           "unit": "USD"
         }
       }
@@ -506,8 +506,57 @@
       }
     },
     "swissquote": {
-      "status": "empty",
-      "spreads": {}
+      "status": "ok",
+      "spreads": {
+        "AUD/USD": {
+          "value": 1.2,
+          "unit": "pips"
+        },
+        "EUR/USD": {
+          "value": 1.2,
+          "unit": "pips"
+        },
+        "GBP/USD": {
+          "value": 1.6,
+          "unit": "pips"
+        },
+        "USD/JPY": {
+          "value": 1.5,
+          "unit": "pips"
+        },
+        "XAU/USD": {
+          "value": 0.635,
+          "unit": "USD"
+        },
+        "GER40": {
+          "value": 4.3,
+          "unit": "pts"
+        },
+        "US500": {
+          "value": 0.6,
+          "unit": "pts"
+        },
+        "NAS100": {
+          "value": 1.45,
+          "unit": "pts"
+        },
+        "US30": {
+          "value": 5.5,
+          "unit": "pts"
+        },
+        "WTI/USD": {
+          "value": 2.6,
+          "unit": "pts"
+        },
+        "EUR/JPY": {
+          "value": 2.6,
+          "unit": "pips"
+        },
+        "UK100": {
+          "value": 2.4,
+          "unit": "pts"
+        }
+      }
     },
     "forex-com": {
       "status": "empty",
