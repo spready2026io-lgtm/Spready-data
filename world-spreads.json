@@ -1,5 +1,5 @@
 {
-  "scanTimestamp": "2026-10-26T05:34:09.671Z",
+  "scanTimestamp": "2026-10-27T05:34:16.033Z",
   "brokers": {
     "ig-world": {
       "status": "ok",
@@ -128,67 +128,6 @@
         }
       }
     },
-    "thinkmarkets": {
-      "status": "ok",
-      "spreads": {
-        "EUR/USD": {
-          "value": 0.8,
-          "unit": "pips"
-        },
-        "USD/JPY": {
-          "value": 1,
-          "unit": "pips"
-        },
-        "GBP/USD": {
-          "value": 0.8,
-          "unit": "pips"
-        },
-        "AUD/USD": {
-          "value": 0.8,
-          "unit": "pips"
-        },
-        "EUR/JPY": {
-          "value": 0.8,
-          "unit": "pips"
-        },
-        "GER40": {
-          "value": 0.7,
-          "unit": "pts"
-        },
-        "NAS100": {
-          "value": 0.8,
-          "unit": "pts"
-        },
-        "WTI/USD": {
-          "value": 2,
-          "unit": "pts"
-        },
-        "BTC/USD": {
-          "value": 30,
-          "unit": "USD"
-        },
-        "XAU/USD": {
-          "value": 0.19,
-          "unit": "USD"
-        },
-        "US30": {
-          "value": 1.5,
-          "unit": "pts"
-        },
-        "US500": {
-          "value": 0.4,
-          "unit": "pts"
-        },
-        "UK100": {
-          "value": 0.9,
-          "unit": "pts"
-        },
-        "ASX200": {
-          "value": 1.2,
-          "unit": "pts"
-        }
-      }
-    },
     "blackbull-markets": {
       "status": "ok",
       "spreads": {
@@ -205,7 +144,7 @@
           "unit": "pips"
         },
         "AUD/USD": {
-          "value": 0.2,
+          "value": 0.1,
           "unit": "pips"
         },
         "EUR/JPY": {
@@ -366,8 +305,13 @@
       }
     },
     "avatrade-world": {
-      "status": "empty",
-      "spreads": {}
+      "status": "ok",
+      "spreads": {
+        "BTC/USD": {
+          "value": 31.88,
+          "unit": "USD"
+        }
+      }
     },
     "ic-markets-world": {
       "status": "ok",
@@ -501,57 +445,8 @@
       }
     },
     "swissquote": {
-      "status": "ok",
-      "spreads": {
-        "AUD/USD": {
-          "value": 1.4,
-          "unit": "pips"
-        },
-        "EUR/USD": {
-          "value": 1.4,
-          "unit": "pips"
-        },
-        "GBP/USD": {
-          "value": 1.5,
-          "unit": "pips"
-        },
-        "USD/JPY": {
-          "value": 1.5,
-          "unit": "pips"
-        },
-        "XAU/USD": {
-          "value": 0.635,
-          "unit": "USD"
-        },
-        "GER40": {
-          "value": 3.3,
-          "unit": "pts"
-        },
-        "US500": {
-          "value": 0.6,
-          "unit": "pts"
-        },
-        "NAS100": {
-          "value": 1.7,
-          "unit": "pts"
-        },
-        "US30": {
-          "value": 5.5,
-          "unit": "pts"
-        },
-        "WTI/USD": {
-          "value": 3.6,
-          "unit": "pts"
-        },
-        "EUR/JPY": {
-          "value": 2.6,
-          "unit": "pips"
-        },
-        "UK100": {
-          "value": 2.4,
-          "unit": "pts"
-        }
-      }
+      "status": "empty",
+      "spreads": {}
     },
     "forex-com": {
       "status": "empty",
