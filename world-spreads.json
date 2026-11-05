@@ -1,5 +1,5 @@
 {
-  "scanTimestamp": "2026-11-04T05:35:00.693Z",
+  "scanTimestamp": "2026-11-05T05:34:40.229Z",
   "brokers": {
     "ig-world": {
       "status": "ok",
@@ -160,7 +160,7 @@
           "unit": "pts"
         },
         "BRENT/USD": {
-          "value": 4.5,
+          "value": 3.4,
           "unit": "pts"
         },
         "NAS100": {
@@ -172,11 +172,11 @@
           "unit": "pts"
         },
         "GER40": {
-          "value": 7.5,
+          "value": 5.5,
           "unit": "pts"
         },
         "US500": {
-          "value": 0.5,
+          "value": 0.6,
           "unit": "pts"
         },
         "UK100": {
@@ -188,7 +188,7 @@
           "unit": "pts"
         },
         "BTC/USD": {
-          "value": 14,
+          "value": 15,
           "unit": "USD"
         }
       }
