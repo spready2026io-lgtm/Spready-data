@@ -1,5 +1,5 @@
 {
-  "scanTimestamp": "2026-11-07T05:34:59.059Z",
+  "scanTimestamp": "2026-11-08T05:34:51.368Z",
   "brokers": {
     "ig-world": {
       "status": "ok",
@@ -260,21 +260,8 @@
       }
     },
     "avatrade-world": {
-      "status": "ok",
-      "spreads": {
-        "EUR/USD": {
-          "value": 0.8,
-          "unit": "pips"
-        },
-        "XAU/USD": {
-          "value": 0.34,
-          "unit": "USD"
-        },
-        "BTC/USD": {
-          "value": 30.38,
-          "unit": "USD"
-        }
-      }
+      "status": "empty",
+      "spreads": {}
     },
     "ic-markets-world": {
       "status": "ok",
