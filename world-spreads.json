@@ -1,5 +1,5 @@
 {
-  "scanTimestamp": "2026-11-11T05:35:16.573Z",
+  "scanTimestamp": "2026-11-12T05:34:59.093Z",
   "brokers": {
     "ig-world": {
       "status": "ok",
@@ -168,7 +168,7 @@
           "unit": "pts"
         },
         "US30": {
-          "value": 2.1,
+          "value": 2,
           "unit": "pts"
         },
         "GER40": {
@@ -184,7 +184,7 @@
           "unit": "pts"
         },
         "ASX200": {
-          "value": 1.6,
+          "value": 9.2,
           "unit": "pts"
         },
         "BTC/USD": {
@@ -455,8 +455,57 @@
       }
     },
     "swissquote": {
-      "status": "empty",
-      "spreads": {}
+      "status": "ok",
+      "spreads": {
+        "AUD/USD": {
+          "value": 1.2,
+          "unit": "pips"
+        },
+        "EUR/USD": {
+          "value": 1.4,
+          "unit": "pips"
+        },
+        "GBP/USD": {
+          "value": 1.5,
+          "unit": "pips"
+        },
+        "USD/JPY": {
+          "value": 1.5,
+          "unit": "pips"
+        },
+        "XAU/USD": {
+          "value": 0.635,
+          "unit": "USD"
+        },
+        "GER40": {
+          "value": 3.3,
+          "unit": "pts"
+        },
+        "US500": {
+          "value": 0.85,
+          "unit": "pts"
+        },
+        "NAS100": {
+          "value": 2.2,
+          "unit": "pts"
+        },
+        "US30": {
+          "value": 4.5,
+          "unit": "pts"
+        },
+        "WTI/USD": {
+          "value": 4.6,
+          "unit": "pts"
+        },
+        "EUR/JPY": {
+          "value": 2.6,
+          "unit": "pips"
+        },
+        "UK100": {
+          "value": 2.4,
+          "unit": "pts"
+        }
+      }
     },
     "forex-com": {
       "status": "empty",
