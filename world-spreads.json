@@ -1,5 +1,5 @@
 {
-  "scanTimestamp": "2026-11-14T05:34:55.016Z",
+  "scanTimestamp": "2026-11-15T05:34:33.578Z",
   "brokers": {
     "ig-world": {
       "status": "ok",
@@ -128,6 +128,16 @@
         }
       }
     },
+    "blackbull-markets": {
+      "status": "ok",
+      "spreads": {
+        "BTC/USD": {
+          "value": 14,
+          "unit": "USD"
+        }
+      },
+      "weekend": true
+    },
     "fxtm": {
       "status": "ok",
       "spreads": {
@@ -252,12 +262,28 @@
     "avatrade-world": {
       "status": "ok",
       "spreads": {
+        "GBP/USD": {
+          "value": 1.2,
+          "unit": "pips"
+        },
+        "USD/JPY": {
+          "value": 1.3,
+          "unit": "pips"
+        },
+        "EUR/JPY": {
+          "value": 1.8,
+          "unit": "pips"
+        },
+        "AUD/USD": {
+          "value": 0.9,
+          "unit": "pips"
+        },
         "XAU/USD": {
           "value": 0.34,
           "unit": "USD"
         },
         "BTC/USD": {
-          "value": 26.81,
+          "value": 77.77,
           "unit": "USD"
         }
       }
