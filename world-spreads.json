@@ -1,5 +1,5 @@
 {
-  "scanTimestamp": "2026-11-17T05:35:04.013Z",
+  "scanTimestamp": "2026-11-18T05:35:00.618Z",
   "brokers": {
     "ig-world": {
       "status": "ok",
@@ -136,11 +136,11 @@
           "unit": "pips"
         },
         "USD/JPY": {
-          "value": 0.1,
+          "value": 0.2,
           "unit": "pips"
         },
         "GBP/USD": {
-          "value": 0.1,
+          "value": 0.2,
           "unit": "pips"
         },
         "AUD/USD": {
@@ -168,7 +168,7 @@
           "unit": "pts"
         },
         "US30": {
-          "value": 2.1,
+          "value": 2,
           "unit": "pts"
         },
         "GER40": {
@@ -186,6 +186,10 @@
         "ASX200": {
           "value": 9.2,
           "unit": "pts"
+        },
+        "BTC/USD": {
+          "value": 15,
+          "unit": "USD"
         }
       }
     },
@@ -313,8 +317,12 @@
     "avatrade-world": {
       "status": "ok",
       "spreads": {
+        "XAU/USD": {
+          "value": 0.34,
+          "unit": "USD"
+        },
         "BTC/USD": {
-          "value": 25.99,
+          "value": 25.87,
           "unit": "USD"
         }
       }
