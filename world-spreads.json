@@ -1,5 +1,5 @@
 {
-  "scanTimestamp": "2026-11-18T05:35:00.618Z",
+  "scanTimestamp": "2026-11-19T05:34:39.893Z",
   "brokers": {
     "ig-world": {
       "status": "ok",
@@ -136,11 +136,11 @@
           "unit": "pips"
         },
         "USD/JPY": {
-          "value": 0.2,
+          "value": 0.1,
           "unit": "pips"
         },
         "GBP/USD": {
-          "value": 0.2,
+          "value": 0.1,
           "unit": "pips"
         },
         "AUD/USD": {
@@ -148,7 +148,7 @@
           "unit": "pips"
         },
         "EUR/JPY": {
-          "value": 0.6,
+          "value": 0.5,
           "unit": "pips"
         },
         "XAU/USD": {
@@ -168,15 +168,15 @@
           "unit": "pts"
         },
         "US30": {
-          "value": 2,
+          "value": 2.1,
           "unit": "pts"
         },
         "GER40": {
-          "value": 5.5,
+          "value": 7.5,
           "unit": "pts"
         },
         "US500": {
-          "value": 0.5,
+          "value": 0.6,
           "unit": "pts"
         },
         "UK100": {
@@ -315,17 +315,8 @@
       }
     },
     "avatrade-world": {
-      "status": "ok",
-      "spreads": {
-        "XAU/USD": {
-          "value": 0.34,
-          "unit": "USD"
-        },
-        "BTC/USD": {
-          "value": 25.87,
-          "unit": "USD"
-        }
-      }
+      "status": "empty",
+      "spreads": {}
     },
     "ic-markets-world": {
       "status": "ok",
@@ -459,8 +450,57 @@
       }
     },
     "swissquote": {
-      "status": "empty",
-      "spreads": {}
+      "status": "ok",
+      "spreads": {
+        "AUD/USD": {
+          "value": 1.2,
+          "unit": "pips"
+        },
+        "EUR/USD": {
+          "value": 1.2,
+          "unit": "pips"
+        },
+        "GBP/USD": {
+          "value": 1.5,
+          "unit": "pips"
+        },
+        "USD/JPY": {
+          "value": 1.6,
+          "unit": "pips"
+        },
+        "XAU/USD": {
+          "value": 0.635,
+          "unit": "USD"
+        },
+        "GER40": {
+          "value": 3.3,
+          "unit": "pts"
+        },
+        "US500": {
+          "value": 0.6,
+          "unit": "pts"
+        },
+        "NAS100": {
+          "value": 2.7,
+          "unit": "pts"
+        },
+        "US30": {
+          "value": 5.5,
+          "unit": "pts"
+        },
+        "WTI/USD": {
+          "value": 3.6,
+          "unit": "pts"
+        },
+        "EUR/JPY": {
+          "value": 2.6,
+          "unit": "pips"
+        },
+        "UK100": {
+          "value": 1.9,
+          "unit": "pts"
+        }
+      }
     },
     "forex-com": {
       "status": "empty",
