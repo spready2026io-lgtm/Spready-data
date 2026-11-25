@@ -1,5 +1,5 @@
 {
-  "scanTimestamp": "2026-11-24T05:34:41.832Z",
+  "scanTimestamp": "2026-11-25T05:34:41.514Z",
   "brokers": {
     "ig-world": {
       "status": "ok",
@@ -136,11 +136,11 @@
           "unit": "pips"
         },
         "USD/JPY": {
-          "value": 0.1,
+          "value": 0.2,
           "unit": "pips"
         },
         "GBP/USD": {
-          "value": 0.1,
+          "value": 0.2,
           "unit": "pips"
         },
         "AUD/USD": {
@@ -160,7 +160,7 @@
           "unit": "pts"
         },
         "BRENT/USD": {
-          "value": 3.5,
+          "value": 3.4,
           "unit": "pts"
         },
         "NAS100": {
@@ -172,7 +172,7 @@
           "unit": "pts"
         },
         "GER40": {
-          "value": 7.5,
+          "value": 5.5,
           "unit": "pts"
         },
         "US500": {
@@ -485,15 +485,15 @@
           "unit": "pts"
         },
         "US30": {
-          "value": 6.5,
+          "value": 5.5,
           "unit": "pts"
         },
         "WTI/USD": {
-          "value": 4.6,
+          "value": 3.6,
           "unit": "pts"
         },
         "EUR/JPY": {
-          "value": 2.5,
+          "value": 2.6,
           "unit": "pips"
         },
         "UK100": {
